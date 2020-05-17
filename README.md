@@ -1,5 +1,5 @@
-# gen_data_msqly
-This application is designed to provide a reusable schema and data for testing the performance and interoperability of systems, databases an/or applications only.
+# gen_test_data
+This project is designed to provide a reusable schema and data for testing the performance and interoperability of systems, databases an/or applications only.
 
 Following the steps below will provide you with a datamodel created in your mySQL database with the means to generate random data.
 
