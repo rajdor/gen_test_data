@@ -264,5 +264,5 @@ ref_vehicle	42275
    ```
 1. Update mysql_config.sh with the path to your mysql.cnf file eg.
    ```bash
-   export pathToOptionsFile=~/projects-gitea/gen_data_mysql/mysql.cnf
+   export pathToOptionsFile=~/projects/gen_test_data/mysql.cnf
    ```
